@@ -1,7 +1,7 @@
 import os
 
 BOT_TOKEN = os.environ.get('5615528335:AAHOlk2j2TE5CWOv24mxBwpBMAx2ui3Zv1k')
-API_ID = int(os.environ.get('14091414'))
+API_ID = 14091414
 SESSION_STRING = os.environ.get('SESSION_STRING', '')
 API_HASH = os.environ.get('5615528335:AAHOlk2j2TE5CWOv24mxBwpBMAx2ui3Zv1k')
 USERBOT_PREFIX = os.environ.get('USERBOT_PREFIX', '.')
